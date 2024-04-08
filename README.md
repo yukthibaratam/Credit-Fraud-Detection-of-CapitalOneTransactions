@@ -1,1 +1,1 @@
-# Credit-Fraud-Detection-of-CapitalOneTransactions
+Credit card fraud detection (CCFD) is like looking for needles in a haystack. This task involves sifting through millions of daily transactions to identify the fraudulent ones. With the data volume continuously growing, it has become nearly unfeasible for human experts to discern significant patterns in transaction data. Consequently, machine learning methods have become prevalent in identifying and preventing credit card fraud.
